@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=humbertodias)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humbertodias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **humbertodias/humbertodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
