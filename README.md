@@ -1,39 +1,30 @@
 <p align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css"> 
 
+# About Me
 
-# Humberto Dias
-IT Engineer with experience in web development and interest in game development and computer graphics.
+I'm a software engineer with over 15 years of experience working for general and game companies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/humberto-dias-451945124) 
+I enjoy coding for fun😋 and making my game projects🎮
+
+- 🔭 I’m currently working at [Zup](https://www.zupinnovation.com)
+- 👯 I’m looking to collaborate on **anything free and open source**
+- 💬 Ask me about `Linux`, `Unity`, `C/C++`, `Golang`, `Node.js`, `Java` and `C#`
+- 📫 How to reach me https://linkedin.com/in/humberto-dias-451945124
 
 
+<details>
+  <summary>:book: Read more</summary>
+  
 ## Main Interests
 <p style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="64"/>
 </p>
 
-## Proficient
-<p style="display:flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="64"/>
-</p>
-
-## Basic Knowledge
-<p style="display:flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/>
-</p>
 
 
 # 💻 Tech Stack:
@@ -151,7 +142,12 @@ IT Engineer with experience in web development and interest in game development 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=humbertodias&icon=0&color=0)](https://visitcount.itsvg.in)
+</details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- https://devicon.dev -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=humbertodias&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/humbertodias?label=Follow&style=social)
