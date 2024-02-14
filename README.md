@@ -152,3 +152,5 @@ I enjoy coding for fun😋 and making my game projects🎮
 ---
 [![](https://visitcount.itsvg.in/api?id=humbertodias&icon=0&color=0)](https://visitcount.itsvg.in)
 ![GitHub followers](https://img.shields.io/github/followers/humbertodias?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/humbertodias)
+
