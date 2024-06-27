@@ -7,7 +7,6 @@ I'm a software engineer with over 15 years of experience working for general and
 
 I enjoy coding for fun😋 and making my game projects🎮
 
-- 🔭 I’m currently working at [Zup](https://www.zupinnovation.com)
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 💬 Ask me about `Linux`, `Unity`, `C/C++`, `Golang`, `Node.js`, `Java` and `C#`
 - 📫 How to reach me on [LinkedIn](https://linkedin.com/in/humberto-dias-451945124) 
