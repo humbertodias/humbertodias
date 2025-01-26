@@ -3,7 +3,7 @@
 
 # About Me
 
-I'm a software engineer with over 15 years of experience working for general and game companies
+I'm a software engineer with over 20 years of experience working for general and game companies
 
 I enjoy coding for fun😋 and making my game projects🎮
 
